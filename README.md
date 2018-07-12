@@ -1,5 +1,7 @@
 # SlideView
-<div align="center"> <img src="https://github.com/wanghao15536870732/SlideView/blob/master/dage.png" height="100px" width="100px"/>
+<div align="center"> 
+  
+  <img src="https://github.com/wanghao15536870732/SlideView/blob/master/dage.png" height="100px" width="100px"/>
   
  
 <h1>  卡片式ViewPager，让你的界面炫酷起来 </h1> 
@@ -12,7 +14,9 @@
 |:--:|:--:|:--:|
 |<div align="center"> <img src="https://github.com/wanghao15536870732/SlideView/blob/master/1.gif" height="502px" width="290px"/> |<div align="center"> <img src="https://github.com/wanghao15536870732/SlideView/blob/master/2.gif" height="502px" width="290px"/>|<div align="center"> <img src="https://github.com/wanghao15536870732/SlideView/blob/master/3.gif" height="502px" width="290px"/>|
 
-build.gradle中添加
+</div>
+
+### build.gradle中添加
 ```java
 allprojects {
     repositories {
@@ -22,7 +26,7 @@ allprojects {
     }
 }
 ```
-添加依赖
+### 添加依赖
 ```java
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
