@@ -4,7 +4,7 @@
   <img src="https://github.com/wanghao15536870732/SlideView/blob/master/dage.png" height="100px" width="100px"/>
   
  
-<h1>  卡片式ViewPager，让你的界面炫酷起来 </h1> 
+<h1>  卡片式RecycleViewManager，让你的界面炫酷起来 </h1> 
 
 <a href="https://github.com/wanghao15536870732/SlideView/blob/master/app-release.apk?raw=true">点击下载</a>
 </br>
