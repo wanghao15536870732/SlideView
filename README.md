@@ -49,4 +49,4 @@ dependencies {
 }
 ```
 ###  想要获取更多内容
-### 请访问这位大神写的[LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
+### 请访问[DingMouRen’s LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
